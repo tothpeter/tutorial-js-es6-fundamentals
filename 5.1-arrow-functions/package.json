@@ -1,0 +1,7 @@
+{
+  "name": "tutorial-es-6-fundamentals",
+  "version": "0.0.1",
+  "devDependencies": {
+    "babel-polyfill": "^6.5.0"
+  }
+}
